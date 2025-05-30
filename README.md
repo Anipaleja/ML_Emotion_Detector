@@ -13,8 +13,6 @@ The system is designed as a distributed microservices architecture where each co
 
 ## System Architecture
 
-![System Architecture](common/docs/architecture.png)
-
 The system consists of the following components:
 
 1. **Python Service**: TensorFlow-based facial emotion recognition
