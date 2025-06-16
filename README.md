@@ -3,9 +3,6 @@
 
 A distributed neural network system that implements multimodal emotion recognition using multiple programming languages in a microservices architecture.
 
-
-
-
 ## Project Description
 
 This project provides a comprehensive system for recognizing human emotions through multiple modalities:
