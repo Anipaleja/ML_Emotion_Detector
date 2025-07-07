@@ -81,8 +81,8 @@ emotion_recognition/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/emotion_recognition.git
-cd emotion_recognition
+git clone https://github.com/anipaleja/ML_Emotion_Detector.git
+cd ML_Emotion_Detector
 ```
 
 ### 2. Set Up Individual Services
