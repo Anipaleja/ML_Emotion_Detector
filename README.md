@@ -70,10 +70,10 @@ emotion_recognition/
 
 ## Prerequisites
 
-- **Python 3.8+** with TensorFlow 2.x
-- **Java 11+** with Maven
-- **Node.js 16+** with npm
-- **Docker** and Docker Compose
+- **Python 3.8+** with `TensorFlow 2.x`
+- **Java 11+** with `Maven`
+- **Node.js 16+** with `npm`
+- **Docker** and `Docker Compose`
 - Modern web browser with WebRTC support
 
 ## Setup Instructions
