@@ -166,7 +166,7 @@ http://localhost:3000
 ## License
 
 This project is licensed under the MIT License
-- See the LICENSE file for details.
+> See the LICENSE file for details.
 
 ## Acknowledgments
 
